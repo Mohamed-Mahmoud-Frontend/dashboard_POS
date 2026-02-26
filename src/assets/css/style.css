@@ -18102,8 +18102,7 @@ div#global-loader .whirly-loader:not(:required) {
 }
 .sidebar .sidebar-menu > ul > li.submenu-open ul,
 .settings-sidebar .sidebar-menu > ul > li.submenu-open ul {
-  border-bottom: 1px solid #e6eaed;
-  padding-bottom: 16px;
+
   display: block;
 }
 .sidebar .sidebar-menu > ul > li.submenu-open ul li a,
